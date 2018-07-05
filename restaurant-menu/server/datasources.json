@@ -1,6 +1,22 @@
 {
   "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "food",
+    "password": "",
     "name": "db",
-    "connector": "memory"
+    "user": "",
+    "connector": "mongodb"
+  },
+  "mongoDS": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "food",
+    "password": "",
+    "name": "mongoDS",
+    "user": "",
+    "connector": "mongodb"
   }
 }
